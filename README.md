@@ -1,5 +1,5 @@
 # isValidTag
-Adds `isValidTag` method to elements, as well as example use that add ol' school `blink` functionality to`&lt;blink>` tags.
+Adds `isValidTag` method to elements, as well as example use that add ol' school `blink` functionality to`<blink>` tags.
 
 Use as simple as:
 
